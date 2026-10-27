@@ -1,6 +1,5 @@
 # Agenda de Contactos — Laboratorio Collections (TIFC2DEV-JAVA-MJ10)
 
-Autora: Dayana Marcela Vallejo Ortega
 
 Agenda de contactos en consola que aplica el Java Collections Framework:
 
