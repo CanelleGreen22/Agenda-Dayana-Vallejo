@@ -1,0 +1,7 @@
+# Archivos generados por IntelliJ / compilacion
+out/
+.idea/
+*.iml
+*.class
+# Material del curso (no se sube)
+*.pdf
